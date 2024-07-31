@@ -1,11 +1,11 @@
 <div align="center">
   <h2 align="center">Blog Card</h2>
   <p align="center">
-<a href="https://apassanisi-testimonial-card.netlify.app" style=""><strong>View live »</strong></a>
+<a href="https://apassanisi-blog-card.netlify.app" style=""><strong>View live »</strong></a>
 
   <div style="max-width: 75px;">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f2c75246-b8c0-4e4a-902d-a215a70c7fa4/deploy-status)](https://app.netlify.com/sites/apassanisi-testimonial-card/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9e8707e-bf6c-459a-bc4e-9ca72755e720/deploy-status)](https://app.netlify.com/sites/apassanisi-blog-card/deploys)
 
   </div>
   </p>
